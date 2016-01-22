@@ -1,0 +1,9 @@
+Slick-migration is a collective effort, and incorporates
+many contributions from the community.
+
+Below follows a list of people, who contributed their code.
+
+Arseniy Zhizhelev, Sergey Kazantsev, Yulia Loykova
+
+NOTE: If you can commit a change to this list, please do not hesitate
+to add your name to it.
